@@ -3,4 +3,4 @@ notion-client
 github-heatmap
 retrying
 pendulum
-beautifulsoup4
+python-dotenv
